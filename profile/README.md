@@ -1,1 +1,1 @@
-# Indexa Geodata 👋
+# Indexa Geodata
